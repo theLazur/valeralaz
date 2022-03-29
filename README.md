@@ -2,7 +2,7 @@
 
 Hello! My name is Valeriya and i'm a professional photographer.
 ![Image](https://github.com/theLazur/valeralaz/blob/main/pic%201.png) pic 1.png
-https://github.com/theLazur/valeralaz/blob/main/pic%201.png
+[Link](https://github.com/theLazur/valeralaz/blob/main/pic%201.png)
 
 ### Markdown
 
