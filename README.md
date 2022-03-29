@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Lazareva Valeriya mega PRO!!!
 
-You can use the [editor on GitHub](https://github.com/theLazur/valeralaz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! My name is Valeriya and i'm a professional photographer.
+![Image](https://github.com/theLazur/valeralaz/blob/main/pic%201.png) pic 1.png
+https://github.com/theLazur/valeralaz/blob/main/pic%201.png
 
 ### Markdown
 
