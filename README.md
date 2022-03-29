@@ -1,7 +1,7 @@
 ## Lazareva Valeriya mega PRO!!!
 
 Hello! My name is Valeriya and i'm a professional photographer.
-![image](/assets/images/pic_1.png)
+![image](/images_1/pic1.png)
 
 ### Markdown
 
